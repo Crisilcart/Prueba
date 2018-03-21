@@ -1,0 +1,13 @@
+Inicio del comunicado
+Texto prueba para el entendimiento de Git y GitHub
+Las sigueintes palabras no tienen sentido
+Hola
+Mano
+Silvita
+Control 3
+Carajo
+Viva Millos
+Long Live the Queen
+Lorem Ipsum 
+.....
+Fin del comunicado 
